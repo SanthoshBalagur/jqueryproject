@@ -1,7 +1,7 @@
 $(document).ready(function()
 {
   $('.loader').hide();
- var facebookToken ="EAACEdEose0cBAJiWCdk4Uqcdv3Tp82resSwPuhicvClshCd4XVgKDTUxvm1QHSl3SrasZCtRZCcEPicv3ZC3Rriw8PRxbgipVQzEQeYjvJiB6j9s2utuVxhaKrxRuHoZBHFOFNP8eWPZAuwpZAgD2VVKuwyH13peTFen7mEBJAu3H0JBpzpzPwwRcTaIojzt4bwgl3y5zdMgZDZD"
+ var facebookToken = prompt("PLEASE ENTER THE FACEBOOK TOKEN");
   var img ;
   function getFacebookJson()
   {
