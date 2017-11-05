@@ -1,0 +1,176 @@
+nav
+{
+  background-color: #2887B9 !important;
+}
+.firstContainer
+{
+  margin-top: 15% !important;
+}
+nav ul
+{
+  list-style-type: none !important;
+  text-decoration: none !important;
+  text-align: center !important;
+}
+nav ul li
+{
+  display: inline-block;
+  margin-top: 10px;
+  padding:5px;
+  font-size: 20px;
+  font-style: verdana;
+}
+nav ul li a
+{
+  color: white !important;
+}
+.myProfilePhoto
+{
+  width:100% !important;
+  height: 100% !important;
+}
+.card
+{
+  box-shadow: 0 0 25px #666 !important;
+  background-color: #ffffff !important;
+}
+.card-inner
+{
+  box-shadow: 0 0 15px #666 !important;
+  padding: 10px;
+}
+.profile-photo
+{
+  width: 30% !important;
+  float: left;
+  height: 300px !important;
+  margin-right: 10%;
+}
+.about-info
+{
+  width: 60% !important;
+  float: right;
+  height: auto !important;
+  padding: 20px;
+  color: black !important;
+  background-color: #2887B9 !important;
+}
+.loader {
+    border: 16px solid #f3f3f3; /* Light grey */
+    border-top: 16px solid #3498db; /* Blue */
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    text-align: center !important;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+.post-title
+{
+  font-size: 30px !important;
+  font-family: verdana !important;
+  text-decoration: bold;
+  color: white !important;
+}
+.design-post-inner
+{
+  font-size: 20px !important;
+  font-family: verdana !important;
+  text-decoration: bold;
+  color: #7FB3D5  !important;
+}
+.design-post-inner-value
+{
+  font-size: 15px !important;
+  color: #445E6F  !important;
+  font-family: verdana !important;
+}
+.card-posts
+{
+  padding: 10px !important;
+  margin: 10px !important;
+  margin-left: 15% !important;
+  margin-right: 15% !important;
+}
+.postNumber
+{
+  text-align: center !important;
+}
+.containAll
+{
+  padding: 20px !important;
+}
+.data
+{
+  background-color: #2887B9 !important;
+  padding-bottom: 10% !important;
+}
+.card-teams
+{
+  width: 45% !important;
+  margin-right: 10%;
+  padding: 10px !important;
+  padding-bottom: 40px !important;
+  float: left;
+  background-color: #2887B9 !important;
+}
+.titles
+{
+  font-family: verdana !important;
+}
+.card-athelete
+{
+  width: 45% !important;
+  padding: 10px !important;
+  float: right;
+  padding-bottom: 40px !important;
+  background-color: #2887B9 !important;
+}
+.logo
+{
+  height: 55px  !important;
+  width: 150px !important;
+  margin-bottom: -20px !important;
+  margin-left: 20% !important;
+}
+body
+{
+  background-image: url("https://i.ytimg.com/vi/Jf5LUmXu8Tk/maxresdefault.jpg");
+  background-color: #31A2DE !important;
+}
+.card-others
+{
+  padding: 20px !important;
+  font-family: verdana !important;
+  margin-left: 20px !important;
+  margin-right: 20px !important;
+  color: green !important;
+}
+.fab
+{
+  margin-top: 10px !important;
+  margin-bottom: 30px !important;
+  color: white !important;
+  font-size: 20px !important;
+}
+.titles-main-inner
+{
+  color: green !important;
+}
+.titles-main
+{
+  color: #7FB3D5 !important;
+}
+.backBtn
+{
+  background-color: transparent !important;
+  border: 2px solid white !important;
+  color: white !important;
+  float: right !important;
+  margin: 15px !important;
+  font-size: 15px !important;
+}

@@ -1,0 +1,93 @@
+@media screen and (max-width:380px)
+{
+   .id
+   {
+     display: none !important;
+   }
+   .navbar-header
+    {
+    display: none !important;
+    }
+    .profile-photo
+    {
+      width: 100% !important;
+    }
+    .about-info
+    {
+      width: 100% !important;
+    }
+    .card-teams
+    {
+      width: 100% !important;
+    }
+    .card-athelete
+    {
+      width: 100% !important;
+    }
+}
+@media screen and (min-width:381px) and (max-width: 580px)
+{
+   .id
+   {
+    display: none !important;
+   }
+  .navbar-header
+   {
+   display: none !important;
+   }
+  .profile-photo
+  {
+    width: 100% !important;
+  }
+  .about-info
+  {
+    width: 100% !important;
+  }
+  .card-teams
+  {
+    width: 100% !important;
+  }
+  .card-athelete
+  {
+    width: 100% !important;
+  }
+}
+@media screen and (min-width:581px) and (max-width: 800px)
+{
+  .id
+  {
+    display: none !important;
+  }
+  .navbar-header
+   {
+   display: none !important;
+   }
+  .profile-photo
+  {
+    width: 100% !important;
+  }
+  .about-info
+  {
+    width: 100% !important;
+  }
+  .card-teams
+  {
+    width: 100% !important;
+  }
+  .card-athelete
+  {
+    width: 100% !important;
+  }
+
+}
+@media screen and (min-width:801px) and (max-width: 1020px)
+{
+
+}
+@media screen and (min-width:1021px) and (max-width: 1333px)
+{
+
+}
+@media screen and (max-width: 1334px)
+{
+}
